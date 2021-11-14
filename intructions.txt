@@ -1,1 +1,18 @@
 
+navigate to smartcare folder:
+     npm install
+
+navigate to the backend folder
+
+install all dependencies using:
+    npm install
+ 
+ 
+start the backend using :
+    npm start
+    
+navigate to smartcare folder:
+    npm start
+    
+    
+    
