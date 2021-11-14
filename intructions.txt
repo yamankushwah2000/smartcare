@@ -1,18 +1,23 @@
 
 
-
-navigate to the backend folder
-
-install all dependencies using:
-    npm install
-start the backend using :
-    npm start
-    
-    
-navigate to smartcare folder:
-     npm install
-navigate to smartcare folder:
-    npm start
+Instructions to run:-
+1.API
+    ->Import the Spring Boot project and make sure it's finished setting up.
+    ->Start the Sring Boot project.
+2.SmartCare device
+    ->Insert the local WI-FI SSID and password in the arduino code at annotated locations.
+    ->Upload the code into ESP32.
+    ->Plug in the wrist band and wait for it to set itself up.
+3.Frontend
+    ->navigate to the backend folder
+    ->install all dependencies using:
+        npm install
+    ->start the backend using :
+        npm start    
+    ->navigate to smartcare folder:
+         npm install
+    ->navigate to smartcare folder:
+        npm start
     
     
     
